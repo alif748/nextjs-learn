@@ -1,0 +1,16 @@
+.kanan{
+  place-content: flex-end;
+}
+#loading{
+  position: absolute;
+  height: 20vh;
+  width: 100%;
+}
+
+main{
+  min-height: 85vh;
+}
+
+.footer{
+  position: relative;
+}

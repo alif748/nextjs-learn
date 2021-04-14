@@ -1,10 +1,9 @@
-import Head from 'next/head'
 import Navbar from '../components/Navbar'
 
-export default function Home() {
+export default function projects() {
   return (
     <>
-    <Navbar title="ok" />
+    <Navbar title="Projects" />
     <main className="container">
       ok sipp lorem2000
     </main>
